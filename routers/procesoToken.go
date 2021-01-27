@@ -11,6 +11,7 @@ import (
 
 /* Voy a crear dos variables globales a ProcesoToken para que pueda utilizarlas dentro y fuera
 porque serán públicas, aprovecho para setear ahí los valores, una sola vez y luego los utilizo en todo el proceso*/
+
 /*Email - valor del email usado en todos los endpoints*/
 var Email string
 
