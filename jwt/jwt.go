@@ -4,7 +4,7 @@ import (
 	"time"
 
 	jwt "github.com/dgrijalva/jwt-go" //Creo un alias para manejarlo más fácil
-	"github.com/lautarofaridtoledo/Go-microblogging/models"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/models"
 )
 
 //GeneroJWT crea un token,

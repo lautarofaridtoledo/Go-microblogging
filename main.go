@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
-	handler "github.com/lautarofaridtoledo/Go-microblogging/handlers"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
+	handler "github.com/lautarofaridtoledo/Go-microblogging-server/handlers"
 )
 
 func main() {

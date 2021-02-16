@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
 )
 
 /*VerPerfil - permite extraer los valores del perfil*/

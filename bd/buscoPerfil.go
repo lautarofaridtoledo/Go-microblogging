@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/models"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

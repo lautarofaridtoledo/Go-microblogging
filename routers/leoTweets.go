@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
 )
 
 //LeoTweet se encarga de leer los tweets almacenados en la BD

@@ -3,7 +3,7 @@ package middlew
 import (
 	"net/http"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
 )
 
 /*ChequeoBD es el middleware que me permite conocer el estado de la BD */

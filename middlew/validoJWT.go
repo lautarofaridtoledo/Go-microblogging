@@ -3,7 +3,7 @@ package middlew
 import (
 	"net/http"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/routers"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/routers"
 )
 
 func ValidoJWT(next http.HandlerFunc) http.HandlerFunc {

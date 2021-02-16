@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	jwt "github.com/dgrijalva/jwt-go"
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
-	"github.com/lautarofaridtoledo/Go-microblogging/models"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/models"
 )
 
 /* Voy a crear dos variables globales a ProcesoToken para que pueda utilizarlas dentro y fuera

@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
-	"github.com/lautarofaridtoledo/Go-microblogging/models"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/models"
 )
 
 /*GraboTweet permite grabar el tweet en la BD */

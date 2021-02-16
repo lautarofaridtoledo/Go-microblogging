@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
-	"github.com/lautarofaridtoledo/Go-microblogging/models"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/models"
 )
 
 /*ModificarPerfil - modifica el perfil de usuario*/

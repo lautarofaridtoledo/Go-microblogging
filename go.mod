@@ -1,4 +1,4 @@
-module github.com/lautarofaridtoledo/Go-microblogging
+module github.com/lautarofaridtoledo/Go-microblogging-server
 
 go 1.13
 

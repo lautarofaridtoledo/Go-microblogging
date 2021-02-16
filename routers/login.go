@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lautarofaridtoledo/Go-microblogging/bd"
-	"github.com/lautarofaridtoledo/Go-microblogging/jwt"
-	"github.com/lautarofaridtoledo/Go-microblogging/models"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/bd"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/jwt"
+	"github.com/lautarofaridtoledo/Go-microblogging-server/models"
 )
 
 /*Login realiza el login de usuario
